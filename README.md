@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 align="center">Data and Science Shed Light and Spark Curiosity</h2>
 
-<!--
-**laserchemist/laserchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Jonathan Smith</b> · Temple University<br>
+  Data science education · computational chemistry · AI in the classroom
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Chemistry, Machine Learning in Chemistry, Data Science
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎞️ Slideshows
+
+- **[Nordic Knowledge: An AI-Moderated Class Discussion Board](https://laserchemist.github.io/JMS/nordic-knowledge/)**
+  Course-grounded AI answers, shared class quizzes, and an instructor dashboard.
+- **[Data-Driven Science in Chemistry (BCCE 2026)](https://laserchemist.github.io/JMS/Talks/)**
+  AI, machine learning, and data-driven intuition in the chemistry curriculum.
+- **[Research: Machine-Learned Potential Energy Surfaces for Hot Criegee Intermediates](https://laserchemist.github.io/MD_MLPES/talk/)**
+  Molecular dynamics, multireference corrections, and infrared spectra of CH₂OO and MVKO.
+
+### 🌐 More
+
+- Personal web page: **[sites.temple.edu/jmsmith](https://sites.temple.edu/jmsmith/)**
+- 🤔 Happy to talk about chemistry, machine learning in chemistry, and data science
