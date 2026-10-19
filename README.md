@@ -18,7 +18,7 @@
   Molecular dynamics, multireference corrections, and infrared spectra of CH₂OO and MVKO.
 - **[Research: Energized Molecules and Visiting Coupled States: Physics Inspired Neural Network Surfaces](https://laserchemist.github.io/MD_MLPES/Energized_molecules/slides/)**
 
-### 🌐 More
+### More
 
 - Personal web page: **[sites.temple.edu/jmsmith](https://sites.temple.edu/jmsmith/)**
 - Happy to talk about chemistry, machine learning in chemistry, and data science
