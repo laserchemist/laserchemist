@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Jonathan Smith</b> · Temple University<br>
-  Data science education · computational chemistry · AI in the classroom
+  Computational chemistry · Data science education  · AI in the classroom
 </p>
 
 ---
