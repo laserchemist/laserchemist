@@ -17,7 +17,7 @@
 - **[Research: Machine-Learned Potential Energy Surfaces for Hot Criegee Intermediates](https://laserchemist.github.io/MD_MLPES/talk/)**
   Molecular dynamics, multireference corrections, and infrared spectra of CH₂OO and MVKO.
 - **[Research: Energized Molecules and Visiting Coupled States: Physics Inspired Neural Network Surfaces](https://laserchemist.github.io/MD_MLPES/Energized_molecules/slides/)**
-- **[Research](https://laserchemist.github.io/MD_MLPES/Criegee_ML/slides/)**Criegee intermediates investigated with new machine-learned multi-reference and Δ-ML surfaces, benchmarked on vibrational spectroscopy: November 2026.
+- **[Research: Novel machine-learned multi-reference and Δ-ML surfaces](https://laserchemist.github.io/MD_MLPES/Criegee_ML/slides/)**Criegee intermediates investigated with new machine-learned multi-reference and Δ-ML surfaces, benchmarked on vibrational spectroscopy: November 2026.
 
 ### More
 
